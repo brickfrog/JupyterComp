@@ -17,4 +17,4 @@ For each notebook you can:
 ---
 |External|Year|Language|Title|
 |---|---|---|---|
-|[n](https://nbviewer.jupyter.org/github/brickfrog/jupyter-compilation/blob/master/ipynb/analysis_and_tips_julia.ipynb) | 2021 | Julia | <b><a href="ipynb/Advent-2021.ipynb" title="A conversion from Python to Julia of the (old) analysis tips and tricks notebook for Numerai">Numerai Tips and Tricks (Old)</a></b> |
+|[n](https://nbviewer.jupyter.org/github/brickfrog/jupyter-compilation/blob/master/ipynb/analysis_and_tips_julia.ipynb) | 2021 | Julia | <b><a href="ipynb/analysis_and_tips_julia.ipynb" title="A conversion from Python to Julia of the (old) analysis tips and tricks notebook for Numerai">Numerai Tips and Tricks (Old)</a></b> |
